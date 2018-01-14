@@ -48,7 +48,7 @@
 
 - 実行(Apply)
   ```
-  terraform plan
+  terraform apply
   ```
 
 - すべての削除 (テスト時などに使う想定)
